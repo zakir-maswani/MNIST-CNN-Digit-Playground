@@ -14,7 +14,7 @@ Facebook: https://www.facebook.com/zakir.maswani.285019
 
 Kaggle: https://www.kaggle.com/zakirali22
 
-App Live Demo: mnist-digits-classifier-72.streamlit.app
+App Live Demo: http://mnist-digits-classifier-72.streamlit.app/
 
 ---
 
