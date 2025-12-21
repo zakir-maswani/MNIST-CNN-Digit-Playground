@@ -3,6 +3,18 @@
 This project is an **end-to-end implementation** of a **Convolutional Neural Network (CNN)** trained on the **MNIST handwritten digits dataset**, achieving **99% accuracy**, and deployed using **Streamlit** for real-time digit prediction.
 
 ---
+## 📗 Author 
+**Zakir Ali** 
+
+Data Analyst | Enthusiast ML Engineer 
+
+LinkedIn: https://www.linkedin.com/in/zakir-ali-572104339
+
+Facebook: https://www.facebook.com/zakir.maswani.285019
+
+Kaggle: https://www.kaggle.com/zakirali22
+
+---
 
 ## 🚀 Project Overview
 
@@ -51,14 +63,10 @@ The trained CNN model is integrated into a Streamlit web application where users
 ---
 
 ## ▶️ How to Run the Project Locally
-
-### 1️⃣ Clone the Repository
+---
 ```bash
 git clone https://github.com/your-username/mnist-digit-recognition-cnn-streamlit.git
 cd mnist-digit-recognition-cnn-streamlit
-
----
-
-## 3️⃣ Run the Streamlit App
-```bash
+pip install -r requirements.txt
 streamlit run app.py
+---
