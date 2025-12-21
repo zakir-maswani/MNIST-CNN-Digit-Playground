@@ -35,7 +35,30 @@ The trained CNN model is integrated into a Streamlit web application where users
 
 ---
 
-## 📂 Project Structure
+## 🧠 Model Details
 
-""text""
-     mnist_digits_app
+- Input Shape: `28 × 28 × 1`
+- Architecture:
+  - Conv2D
+  - MaxPooling
+  - Flatten
+  - Dense Layers
+  - Softmax Output Layer
+- Optimizer: Adam  
+- Loss Function: Categorical Crossentropy  
+- Accuracy Achieved: **~99%**
+
+---
+
+## ▶️ How to Run the Project Locally
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/mnist-digit-recognition-cnn-streamlit.git
+cd mnist-digit-recognition-cnn-streamlit
+
+---
+
+## 3️⃣ Run the Streamlit App
+```bash
+streamlit run app.py
