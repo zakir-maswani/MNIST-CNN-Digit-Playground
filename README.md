@@ -14,6 +14,8 @@ Facebook: https://www.facebook.com/zakir.maswani.285019
 
 Kaggle: https://www.kaggle.com/zakirali22
 
+App Live Demo: mnist-digits-classifier-72.streamlit.app
+
 ---
 
 ## 🚀 Project Overview
@@ -63,6 +65,7 @@ The trained CNN model is integrated into a Streamlit web application where users
 ---
 
 ## ▶️ How to Run the Project Locally
+
 ---
 ```bash
 git clone https://github.com/your-username/mnist-digit-recognition-cnn-streamlit.git
@@ -70,3 +73,8 @@ cd mnist-digit-recognition-cnn-streamlit
 pip install -r requirements.txt
 streamlit run app.py
 ---
+
+
+
+
+
