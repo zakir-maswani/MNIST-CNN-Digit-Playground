@@ -67,7 +67,7 @@ The trained CNN model is integrated into a Streamlit web application where users
 ## ▶️ How to Run the Project Locally
 ---
 ```bash
-git clone https://github.com/your-username/mnist-digit-recognition-cnn-streamlit.git
+git clone https://github.com/zakir-maswani/mnist-digit-recognition-cnn-streamlit.git
 cd mnist-digit-recognition-cnn-streamlit
 pip install -r requirements.txt
 streamlit run app.py
